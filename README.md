@@ -26,6 +26,10 @@ Our approach enables specification of various sets of characteristics depending 
 The characteristics-based methods for direct design of auditory filter addresses two critical needs: accurately designing auditory filters based on simultaneous specifications on characteristics, and systematically studying how varying characteristics affects the findings of perceptual studies and technological advances. For instance, the methods (using our open-source code [^2]) may be used to systematically investigate the dependence of study outcomes on filter characteristics in studies reporting sensitivity based on ad hoc variation of certain characteristics. These include intelligibility scores of bandpass-filtered speech [^3], accuracy of speech recognition [^4], sound source localization models [^5], mutual information between articulatory gestures of vocal tracts and acoustic and perceptual features [^6], and accuracy of speech intelligibility models for cochlear implants [^7]. The methods may be extended to incorporate specifications on combined spectrotemporal characteristics as is relevant for studying certain perceptual functions [^8]. This work may also be used to understand the cochlea's role in perception via underlying unified models [^9].
 
 
+## Citing
+[![DOI](https://zenodo.org/badge/958745460.svg)](https://doi.org/10.5281/zenodo.15627938)
+
+
 ## References
 [^1]: Alkhairy, S. A. (2024). Characteristics-Based Design of Generalized-Exponent Bandpass Filters. arXiv preprint [arXiv:2404.15321](https://arxiv.org/abs/2404.15321).
 [^2]: Zhao, W., & Alkhairy, S. A. (2025) [GEFs GitHub Repository](https://github.com/AnalyticModeling/GEFs).
@@ -37,9 +41,5 @@ The characteristics-based methods for direct design of auditory filter addresses
 [^8]: Moore, B. C. (2008). The role of temporal fine structure processing in pitch perception, masking, and speech perception for normal-hearing and hearing-impaired people. Journal of the Association for Research in Otolaryngology, 9, [399-406.](https://link.springer.com/article/10.1007/s10162-008-0143-x)
 [^9]: Alkhairy, S. A., & Shera, C. A. (2019). An analytic physically motivated model of the mammalian cochlea. The Journal of the Acoustical Society of America, 145(1), [45-60.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320697/) *and* Alkhairy, S. A. (2024). Cochlear wave propagation and dynamics in the human base and apex: Model-based estimates from noninvasive measurements. In AIP Conference Proceedings (Vol. 3062, No. 1). [AIP Publishing.](https://arxiv.org/abs/2407.00003)     
 <!-- [10]: Lyon, R. F. (1996). The all-pole gammatone filter and auditory models. Apple Computer, Inc. Apple Computer, Inc. Cupertino, CA 95014 USA. [draft.](https://www.dicklyon.com/tech/Hearing/APGF_Lyon_1996.pdf). -->
-
-
-## Citing
-[![DOI](https://zenodo.org/badge/958745460.svg)](https://doi.org/10.5281/zenodo.15627938)
 
 
