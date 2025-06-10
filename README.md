@@ -37,3 +37,9 @@ The characteristics-based methods for direct design of auditory filter addresses
 [^8]: Moore, B. C. (2008). The role of temporal fine structure processing in pitch perception, masking, and speech perception for normal-hearing and hearing-impaired people. Journal of the Association for Research in Otolaryngology, 9, [399-406.](https://link.springer.com/article/10.1007/s10162-008-0143-x)
 [^9]: Alkhairy, S. A., & Shera, C. A. (2019). An analytic physically motivated model of the mammalian cochlea. The Journal of the Acoustical Society of America, 145(1), [45-60.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6320697/) *and* Alkhairy, S. A. (2024). Cochlear wave propagation and dynamics in the human base and apex: Model-based estimates from noninvasive measurements. In AIP Conference Proceedings (Vol. 3062, No. 1). [AIP Publishing.](https://arxiv.org/abs/2407.00003)     
 <!-- [10]: Lyon, R. F. (1996). The all-pole gammatone filter and auditory models. Apple Computer, Inc. Apple Computer, Inc. Cupertino, CA 95014 USA. [draft.](https://www.dicklyon.com/tech/Hearing/APGF_Lyon_1996.pdf). -->
+
+
+## Citing
+[![DOI](https://zenodo.org/badge/958745460.svg)](https://doi.org/10.5281/zenodo.15627938)
+
+
